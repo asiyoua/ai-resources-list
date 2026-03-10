@@ -96,77 +96,76 @@ Agent Skills 让 AI Agent 获得专业技能，从通用助手转变为领域专
 
 ### 📹 视频教程
 
-| # | 资源 | 介绍 |
-|---|------|------|
-| 1 | 【保姆级教程】2小时从会用到会造 | 零基础入门中文教程，从使用到造 Skill 的完整讲解 |
-| 2 | 别再造 Agent 了，未来是Skills的 | 白白说大模型深度解析 Skills 的核心价值 |
-| 3 | Agent Skill 从使用到原理，一次讲清 | 马克的技术工作坊，使用+原理全讲清 |
+| # | 资源 | 介绍 | 链接 |
+|---|------|------|------|
+| 1 | 【保姆级教程】2小时从会用到会造 | 零基础入门中文教程，从使用到造 Skill 的完整讲解 | ✅ 字幕已下载 |
+| 2 | 别再造 Agent 了，未来是Skills的 | 白白说大模型深度解析 Skills 的核心价值 | ✅ 视频+字幕 |
+| 3 | Agent Skill 从使用到原理，一次讲清 | 马克的技术工作坊，使用+原理全讲清 | ✅ 视频+字幕 |
 
 ### 📘 官方文档
 
 #### 1. 完整指南
 
-| 资源 | 介绍 |
-|------|------|
-| 完整构建指南 | Anthropic 官方完整指南，从头到尾教你构建 Skill |
+| 资源 | 介绍 | 链接 |
+|------|------|------|
+| 完整构建指南 | Anthropic 官方完整指南，从头到尾教你构建 Skill | [The Complete Guide to Building Skill for Claude](https://www.anthropic.com/engineering/the-complete-guide-to-building-skills-for-claude) |
 
 #### 2. Claude API Docs_Agent Skills_中文版（5篇）
 
-| # | 资源 | 介绍 |
-|---|------|------|
-| 1 | 概览 | Agent Skills 是什么，核心概念和工作原理 |
-| 2 | 快速开始 | 如何在 API 中开始使用 Agent Skills |
-| 3 | 技能创作最佳实践 | 官方推荐的 Skill 设计和编写指南 |
-| 4 | 企业级技能 | 企业场景下的 Skills 使用和管理 |
-| 5 | 通过 API 使用 | 如何通过 API 集成和使用 Agent Skills |
+| # | 资源 | 介绍 | 链接 |
+|---|------|------|------|
+| 1 | 概览 | Agent Skills 是什么，核心概念和工作原理 | [查看](https://platform.claude.com/docs/zh-CN/agents-and-tools/agent-skills/overview) |
+| 2 | 快速开始 | 如何在 API 中开始使用 Agent Skills | [查看](https://platform.claude.com/docs/zh-CN/agents-and-tools/agent-skills/quickstart) |
+| 3 | 技能创作最佳实践 | 官方推荐的 Skill 设计和编写指南 | [查看](https://platform.claude.com/docs/zh-CN/agents-and-tools/agent-skills/best-practices) |
+| 4 | 企业级技能 | 企业场景下的 Skills 使用和管理 | [查看](https://platform.claude.com/docs/zh-CN/agents-and-tools/agent-skills/enterprise) |
+| 5 | 通过 API 使用 | 如何通过 API 集成和使用 Agent Skills | [查看](https://platform.claude.com/docs/zh-CN/build-with-claude/skills-guide) |
 
 #### 3. Claude API Docs_Agent Skills_英文版（5篇）
 
-| # | 资源 | 介绍 |
-|---|------|------|
-| 1 | Overview | What are Agent Skills and how they work |
-| 2 | Quickstart | Get started with Agent Skills in the API |
-| 3 | Skill authoring best practices | Official guide for designing and writing Skills |
-| 4 | Skills for enterprise | Using Skills in enterprise scenarios |
-| 5 | Using Agent Skills with the API | How to integrate and use Agent Skills via API |
+| # | 资源 | 介绍 | 链接 |
+|---|------|------|------|
+| 1 | Overview | What are Agent Skills and how they work | [View](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview) |
+| 2 | Quickstart | Get started with Agent Skills in the API | [View](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/quickstart) |
+| 3 | Skill authoring best practices | Official guide for designing and writing Skills | [View](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices) |
+| 4 | Skills for enterprise | Using Skills in enterprise scenarios | [View](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/enterprise) |
+| 5 | Using Agent Skills with the API | How to integrate and use Agent Skills via API | [View](https://platform.claude.com/docs/en/build-with-claude/skills-guide) |
 
 #### 4. 开放标准 & 仓库
 
-| 资源 | 介绍 |
-|------|------|
-| Agent Skills 开放标准 | 官方标准规范，定义 SKILL.md 格式和最佳实践 |
-| GitHub 官方仓库 | Anthropic 官方 Skills 仓库，16个预建 Skills |
-| awesome-agent-skills | 精选 Skills 教程、案例和实践资源集合 |
-| anthropics:skills | GitHub 官方仓库 README，包含技能分类、模板、安装方法和 Partner Skills |
+| 资源 | 介绍 | 链接 |
+|------|------|------|
+| Agent Skills 开放标准 | 官方标准规范，定义 SKILL.md 格式和最佳实践 | [agentskills.io](https://agentskills.io/home) |
+| GitHub 官方仓库 | Anthropic 官方 Skills 仓库，16个预建 Skills | [github.com/anthropics/skills](https://github.com/anthropics/skills) |
+| awesome-agent-skills | 精选 Skills 教程、案例和实践资源集合 | [github.com/libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) |
 
 ### 📚 学术论文（8篇）
 
-| # | 资源 | 介绍 |
-|---|------|------|
-| 1 | Agentic AI Frameworks | 分析 AI Agent 框架的架构设计，明确讨论 Skills 概念 |
-| 2 | Agent Skills in the Wild | 直接研究 Agent Skills 在实际场景中的应用和效果 |
-| 3 | When Single-Agent with Skills Replace Multi-Agent Systems | 直接研究 单 Agent + Skills 何时优于多 Agent 系统 |
-| 4 | ReAct | Tool Use 奠基论文，提出"思考→行动→观察"循环范式 |
-| 5 | Toolformer | 让模型自监督学习何时使用工具，减少人工标注 |
-| 6 | Model Context Protocol (MCP) | Model Context Protocol 首篇系统综述 |
-| 7 | A Large-Scale Evolvable Dataset for Model Context Protocol Ecosystem and Security Analysis | 大规模 MCP 服务器和客户端数据集 |
-| 8 | Enterprise-Grade Security for the Model Context Protocol (MCP) | 企业级 MCP 安全框架和威胁缓解策略 |
+| # | 资源 | 介绍 | 链接 |
+|---|------|------|------|
+| 1 | Agentic AI Frameworks | 分析 AI Agent 框架的架构设计，明确讨论 Skills 概念 | ✅ 已下载 |
+| 2 | Agent Skills in the Wild | 直接研究 Agent Skills 在实际场景中的应用和效果 | ✅ 已下载 |
+| 3 | When Single-Agent with Skills Replace Multi-Agent Systems | 直接研究 单 Agent + Skills 何时优于多 Agent 系统 | ✅ 已下载 |
+| 4 | ReAct | Tool Use 奠基论文，提出"思考→行动→观察"循环范式 | ✅ 已下载 |
+| 5 | Toolformer | 让模型自监督学习何时使用工具，减少人工标注 | ✅ 已下载 |
+| 6 | Model Context Protocol (MCP) | Model Context Protocol 首篇系统综述 | ✅ 已下载 |
+| 7 | A Large-Scale Evolvable Dataset for Model Context Protocol Ecosystem and Security Analysis | 大规模 MCP 服务器和客户端数据集 | ✅ 已下载 |
+| 8 | Enterprise-Grade Security for the Model Context Protocol (MCP) | 企业级 MCP 安全框架和威胁缓解策略 | ✅ 已下载 |
 
 ### 📰 技术文章
 
-| # | 资源 | 介绍 |
-|---|------|------|
-| 1 | Agent Skills 终极指南：入门、精通、预测 | 全网最好的 Skills 中文指南与教程，涵盖入门到精通 |
-| 2 | Claude Skills 完全指南：让 AI 成为你的领域专家 | 详细介绍如何让 Claude 掌握特定领域技能 |
-| 3 | Building Agents with Skills | Anthropic 官方博客，讲解 Skills 如何包装领域专业知识 |
-| 4 | 分享两篇Claude Skills最新论文 | 深度解读两篇最新论文，提炼 3 个核心结论 |
+| # | 资源 | 介绍 | 链接 |
+|---|------|------|------|
+| 1 | Agent Skills 终极指南：入门、精通、预测 | 全网最好的 Skills 中文指南与教程，涵盖入门到精通 | [阅读](https://mp.weixin.qq.com/s/jUylk813LYbKw0sLiIttTQ) |
+| 2 | Claude Skills 完全指南：让 AI 成为你的领域专家 | 详细介绍如何让 Claude 掌握特定领域技能 | [阅读](https://zhuanlan.zhihu.com/p/1996713664087090521) |
+| 3 | Building Agents with Skills | Anthropic 官方博客，讲解 Skills 如何包装领域专业知识 | [阅读](https://claude.com/blog/building-agents-with-skills-equipping-agents-for-specialized-work) |
+| 4 | 分享两篇Claude Skills最新论文 | 深度解读两篇最新论文，提炼 3 个核心结论 | [阅读](https://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&mid=2247502780&idx=1&sn=2671e0e0e6e15dd5a2020b1fc1281cf7) |
 
 ### 📘 飞书文档
 
-| 资源 | 介绍 |
-|------|------|
-| Agent Skills 蓝皮书 | 完整的 Agent Skills 知识体系文档 |
-| 2小时从会用到会造 | 从零开始掌握 Agent Skills 的实战教程 |
+| 资源 | 介绍 | 链接 |
+|------|------|------|
+| Agent Skills 蓝皮书 | 完整的 Agent Skills 知识体系文档 | [查看](https://my.feishu.cn/wiki/HMkcwJwyFi9Rtwk5VzScApWEn2c) |
+| 2小时从会用到会造 | 从零开始掌握 Agent Skills 的实战教程 | [查看](https://my.feishu.cn/wiki/S84Zw1CFciK4I0k9kd2cWED0nUd) (密码: boxuegutans666) |
 
 ---
 

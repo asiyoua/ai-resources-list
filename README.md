@@ -98,9 +98,9 @@ Agent Skills 让 AI Agent 获得专业技能，从通用助手转变为领域专
 
 | # | 资源 | 介绍 | 链接 |
 |---|------|------|------|
-| 1 | 【保姆级教程】2小时从会用到会造 | 零基础入门中文教程，从使用到造 Skill 的完整讲解 | ✅ 字幕已下载 |
-| 2 | 别再造 Agent 了，未来是Skills的 | 白白说大模型深度解析 Skills 的核心价值 | ✅ 视频+字幕 |
-| 3 | Agent Skill 从使用到原理，一次讲清 | 马克的技术工作坊，使用+原理全讲清 | ✅ 视频+字幕 |
+| 1 | 【保姆级教程】2小时从会用到会造 | 零基础入门中文教程，从使用到造 Skill 的完整讲解 | [观看](https://www.bilibili.com/video/BV1ahFmzqE9z) |
+| 2 | 别再造 Agent 了，未来是Skills的 | 白白说大模型深度解析 Skills 的核心价值 | [观看](https://www.youtube.com/watch?v=xeoWgfkxADI) |
+| 3 | Agent Skill 从使用到原理，一次讲清 | 马克的技术工作坊，使用+原理全讲清 | [观看](https://www.youtube.com/watch?v=yDc0_8emz7M) |
 
 ### 📘 官方文档
 
@@ -142,14 +142,14 @@ Agent Skills 让 AI Agent 获得专业技能，从通用助手转变为领域专
 
 | # | 资源 | 介绍 | 链接 |
 |---|------|------|------|
-| 1 | Agentic AI Frameworks | 分析 AI Agent 框架的架构设计，明确讨论 Skills 概念 | ✅ 已下载 |
-| 2 | Agent Skills in the Wild | 直接研究 Agent Skills 在实际场景中的应用和效果 | ✅ 已下载 |
-| 3 | When Single-Agent with Skills Replace Multi-Agent Systems | 直接研究 单 Agent + Skills 何时优于多 Agent 系统 | ✅ 已下载 |
-| 4 | ReAct | Tool Use 奠基论文，提出"思考→行动→观察"循环范式 | ✅ 已下载 |
-| 5 | Toolformer | 让模型自监督学习何时使用工具，减少人工标注 | ✅ 已下载 |
-| 6 | Model Context Protocol (MCP) | Model Context Protocol 首篇系统综述 | ✅ 已下载 |
-| 7 | A Large-Scale Evolvable Dataset for Model Context Protocol Ecosystem and Security Analysis | 大规模 MCP 服务器和客户端数据集 | ✅ 已下载 |
-| 8 | Enterprise-Grade Security for the Model Context Protocol (MCP) | 企业级 MCP 安全框架和威胁缓解策略 | ✅ 已下载 |
+| 1 | Agentic AI Frameworks | 分析 AI Agent 框架的架构设计，明确讨论 Skills 概念 | [arXiv](https://arxiv.org/abs/2508.10146) |
+| 2 | Agent Skills in the Wild | 直接研究 Agent Skills 在实际场景中的应用和效果 | [arXiv](https://arxiv.org/pdf/2601.10338) |
+| 3 | When Single-Agent with Skills Replace Multi-Agent Systems | 直接研究 单 Agent + Skills 何时优于多 Agent 系统 | [arXiv](https://arxiv.org/pdf/2601.04748) |
+| 4 | ReAct | Tool Use 奠基论文，提出"思考→行动→观察"循环范式 | [arXiv](https://arxiv.org/abs/2210.03629) |
+| 5 | Toolformer | 让模型自监督学习何时使用工具，减少人工标注 | [OpenReview](https://openreview.net/forum?id=Yacmpz84TH) |
+| 6 | Model Context Protocol (MCP) | Model Context Protocol 首篇系统综述 | [arXiv](https://arxiv.org/abs/2503.23278) |
+| 7 | A Large-Scale Evolvable Dataset for Model Context Protocol Ecosystem and Security Analysis | 大规模 MCP 服务器和客户端数据集 | [arXiv](https://arxiv.org/abs/2506.23474) |
+| 8 | Enterprise-Grade Security for the Model Context Protocol (MCP) | 企业级 MCP 安全框架和威胁缓解策略 | [arXiv](https://arxiv.org/abs/2504.08623) |
 
 ### 📰 技术文章
 
